@@ -14,7 +14,7 @@ function School(){
                     <div class="col-lg-6 mb-5">
                         <img src="images/hero_1_no-text.jpg" alt="Image" class="img-fluid"/>
                     </div>
-                    <div class="col-lg-5 ms-auto align-self-center">
+                    <div class="col-lg-5 ms-auto align-self-center text-start">
                         <h3 class="text-black text-uppercase mb-4">Build Schools in Africa</h3>
                         <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam quis, nemo explicabo cupiditate vero fugiat sit eius sequi.</p>
 
@@ -39,7 +39,7 @@ function School(){
                     <div class="col-lg-6 mb-5 order-lg-2">
                         <img src="images/hero_2_no-text.jpg" alt="Image" class="img-fluid"/>
                     </div>
-                    <div class="col-lg-5 mr-auto align-self-center order-lg-1">
+                    <div class="col-lg-5 mr-auto align-self-center order-lg-1 text-start">
                         <h3 class="text-black text-uppercase mb-4">Feeding Children in Africa</h3>
                         <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam quis, nemo explicabo cupiditate vero fugiat sit eius sequi.</p>
 

@@ -1,5 +1,22 @@
 import Iframe from 'react-iframe';
+// import React, { useRef } from 'react';
+// import emailjs from '@emailjs/browser';
+
 function ContactContent(){
+
+    // const form = useRef();
+
+    // const sendEmail = (e) => {
+    //     e.preventDefault();
+
+    //     emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+    //     .then((result) => {
+    //         console.log(result.text);
+    //     }, (error) => {
+    //         console.log(error.text);
+    //     });
+    // };
+
     return(
         <>
             <div className="container-xxl py-5">
@@ -9,6 +26,7 @@ function ContactContent(){
                             <div className="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Contact Us</div>
                             <h1 className="display-6 mb-5">If You Have Any Query, Please Contact Us</h1>
                             <p className="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                            {/* <form ref={form} onSubmit={sendEmail}> */}
                             <form>
                                 <div className="row g-3">
                                     <div className="col-md-6">

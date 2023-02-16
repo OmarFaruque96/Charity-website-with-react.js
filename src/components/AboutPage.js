@@ -6,7 +6,9 @@ function AboutPage(){
     return(
         <>
             <Header/>
-            <PageHeader/>
+            <PageHeader
+            pagetitle = 'About Us'
+            />
             <AboutContent/>
             <Footer/>
         </>

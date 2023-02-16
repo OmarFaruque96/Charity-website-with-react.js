@@ -6,7 +6,9 @@ function CausesPage(){
     return(
         <>
             <Header/>
-            <PageHeader/>
+            <PageHeader
+            pagetitle = 'Causes'
+            />
             <Causes/>
             <Footer/>
         </>

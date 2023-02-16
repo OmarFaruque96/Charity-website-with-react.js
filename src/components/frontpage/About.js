@@ -26,7 +26,7 @@ function About (){
                         </a>
                         </figure>
                     </div>
-                    <div class="col-lg-5 ms-auto align-self-lg-center">
+                    <div class="col-lg-5 ms-auto align-self-lg-center text-start">
                         <h2 class="text-black mb-4 text-uppercase section-title">Our Mission</h2>
                         <p class="text-black">Accusantium dignissimos voluptas rem consequatur blanditiis error ratione illo sit quasi ut, praesentium magnam, pariatur quae, necessitatibus</p>
                         <p class="text-black">Dolor, eligendi voluptate ducimus itaque esse autem perspiciatis sint! Recusandae dolor aliquid inventore sit,</p>

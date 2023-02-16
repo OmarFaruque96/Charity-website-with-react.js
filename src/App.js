@@ -3,8 +3,9 @@ import FrontPage from './components/FrontPage.js';
 import Causes from './components/CausesPage';
 import Donate from './components/DonatePage';
 import About from './components/AboutPage';
-import Contact from './components/ContactPage'
-import { Routes, Route} from "react-router-dom"
+import Contact from './components/ContactPage';
+import CSP from './components/CSP_Page';
+import { Routes, Route} from "react-router-dom";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/causes" element={ <Causes/> } />
         <Route path="/donate" element={ <Donate/> } />
         <Route path="/about" element={ <About/> } />
+        <Route path="/csp" element={ <CSP/> } />
         <Route path="/contact" element={ <Contact/> } />
       </Routes>
     </div>

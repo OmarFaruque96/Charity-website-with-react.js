@@ -1,0 +1,70 @@
+[
+    {
+      "_id": "63edc2520a4696a787596d97",
+      "index": 0,
+      "guid": "b7ad615f-9d4b-4afd-9ee3-eb01652acef5",
+      "isActive": false,
+      "picture": "img/team-1.jpg",
+      "name": "Cora Hammond",
+      "company": "KIDSTOCK",
+      "socialLinks": [
+        {
+          "id": 0,
+          "facebook": "https://www.facebook.com/",
+          "email": "corahammond@kidstock.com",
+          "phone": "(985) 526-3448"
+        }
+      ]
+    },
+    {
+      "_id": "63edc252dbc367b0a0daa8a2",
+      "index": 1,
+      "guid": "69a5d843-a1ce-40b0-b7c9-e011b0a0cfff",
+      "isActive": false,
+      "picture": "img/team-2.jpg",
+      "name": "Colleen Salas",
+      "company": "ELEMANTRA",
+      "socialLinks": [
+        {
+          "id": 0,
+          "facebook": "https://www.facebook.com/",
+          "email": "colleensalas@elemantra.com",
+          "phone": "(935) 496-3648"
+        }
+      ]
+    },
+    {
+      "_id": "63edc252d55cafaa72b0d3e0",
+      "index": 2,
+      "guid": "8c68d88e-01e1-4ef9-a93b-723e5c00993e",
+      "isActive": true,
+      "picture": "img/team-3.jpg",
+      "name": "Callahan Solis",
+      "company": "TINGLES",
+      "socialLinks": [
+        {
+          "id": 0,
+          "facebook": "https://www.facebook.com/",
+          "email": "callahansolis@tingles.com",
+          "phone": "(979) 514-2346"
+        }
+      ]
+    },
+    {
+      "_id": "63edc2520afd46c5e8c8307c",
+      "index": 3,
+      "guid": "70f230fd-345e-46a1-ab24-0f7c51db01b6",
+      "isActive": false,
+      "picture": "img/team-4.jpg",
+      "name": "Glover Nolan",
+      "company": "OMNIGOG",
+      "socialLinks": [
+        {
+          "id": 0,
+          "facebook": "https://www.facebook.com/",
+          "email": "glovernolan@omnigog.com",
+          "phone": "(835) 571-2923"
+        }
+      ]
+    }
+  ]

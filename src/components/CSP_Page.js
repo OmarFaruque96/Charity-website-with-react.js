@@ -1,13 +1,13 @@
 import Header from './common/Header';
 import Footer from './common/Footer';
-import Donate from './donate/Donate';
 import PageHeader from './common/PageHeader';
+import CSP from './csp/CSP'
 function CausesPage(){
     return(
         <>
             <Header/>
-            <PageHeader pagetitle = 'Donate'/>
-            <Donate/>
+            <PageHeader  pagetitle = 'Child Sponsorship Program'/>
+            <CSP/>
             <Footer/>
         </>
     )
