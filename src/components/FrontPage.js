@@ -3,7 +3,7 @@ import Footer from './common/Footer';
 import HomeBanner from './frontpage/Banner';
 import About from './frontpage/About';
 import School from './frontpage/School';
-import Causes from './causes/Causes';
+import CSP from './csp/CSP';
 import Donate from './donate/Donate';
 import Team from './team/Team';
 
@@ -14,7 +14,7 @@ function FrontPage(){
             <HomeBanner/>
             <About/>
             <School/>
-            <Causes/>
+            <CSP/>
             <Donate/>
             <Team/>
             <Footer/>

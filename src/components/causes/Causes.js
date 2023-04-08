@@ -1,14 +1,14 @@
 function Causes(){
     return(
-        <div className="container-xxl bg-light my-5 py-5">
+        <div className="container-xxl my-5 py-5">
             <div className="container py-5">
                 <div className="text-center mx-auto mb-5 wow fadeInUp mw-500" data-wow-delay="0.1s">
                     <div className="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Feature Causes</div>
-                    <h1 className="display-6 mb-5">Every Child Deserves The Opportunity To Learn</h1>
+                    <h1 className="display-6 mb-5">What we do something good for society</h1>
                 </div>
                 <div className="row g-4 justify-content-center">
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div className="causes-item d-flex flex-column bg-white border-top border-5 border-primary rounded-top overflow-hidden h-100">
+                        <div className="causes-item d-flex flex-column bg-light border-top border-5 border-primary rounded-top overflow-hidden h-100">
                             <div className="text-center p-4 pt-0">
                                 <div className="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4">
                                     <small>Education</small>
